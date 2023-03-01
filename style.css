@@ -76,5 +76,7 @@ footer{
     display: flex;
     justify-content: center;
     align-items: end;
+    font-size: 30px;
+}
 
 }
