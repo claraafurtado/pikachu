@@ -72,11 +72,15 @@ main{
 }
 }
 footer{
-    
-    display: flex;
+     display: flex;
     justify-content: center;
     align-items: end;
-    font-size: 30px;
+}
+.pikachu-image{
+ position: absolute;
+ top: 50%;
+ left:50%;
+ transform: translate(-50%,50%);
 }
 
 }
